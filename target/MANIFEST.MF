@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: EurekaPro
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: THINK
+Implementation-Vendor-Id: Eureka
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_121
+Main-Class: ${start-class}
+
